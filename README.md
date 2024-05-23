@@ -1,4 +1,5 @@
 
+WORK IN PROGRESS 
 
 <div align='center' >
 <img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
@@ -32,17 +33,17 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-057682?style=flat&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-057682?style=flat-square&logo=react)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-SQL-057682?style=flat&logo=sql&logoColor=white)
 
 
 <p> Soft skills </p>
 
 #### Projets
-![@Virtu'Art]() | ![@Globe Guide](https://avatars.githubusercontent.com/aprilspeight?s=150&v=1) |
+![@Virtu'Art]() | ![@Globe Guide]() |
 --- | --- | 
 [Virtu'Art - JS Vanilla ]() | [Globe Guide - REACT/API](globe-guide.netlify.app/)
 
@@ -50,7 +51,7 @@
 <table>
   <tr>
     <td>
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="200px;"  height="300px;" align="center" alt="Virtu'ART"/>
+        <img src="" width="200px;"  height="300px;" align="center" alt="Virtu'ART"/>
       <br />
       <p> Virtu'Art</p>
       <p> JS Vanilla</p>
