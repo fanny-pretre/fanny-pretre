@@ -20,16 +20,15 @@ WORK IN PROGRESS
 </div><br>
 
 <div>
-<p> Hello et bienvenue sur mon profil ! 👋 <p>
-<p> Je m'appelle Fanny Prêtre et je suis une grande fan des "display: nonne" et des blagues de dev aussi visiblement ! Je suis actuellement en reconversion dans le domaine du Développement Web et je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a>. Je suis à la recherche d'une alternance pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait n'hésitez pas à me contacter.   </p>
+<p> Hello et bienvenue sur mon profil GitHub ! 👋 <p>
+<p> Je m'appelle Fanny Prêtre et je suis une grande fan des "display: nonne" et des blagues de dev aussi visiblement ! Je suis actuellement en reconversion dans le domaine du Développement Web et je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a>. Je suis à la recherche d'une alternance pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait n'hésitez pas à me contacter !    </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fpretre-057682?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
 [![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-057682?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
-<p> Mes sujets fétiches : <span> #JavaScript/React, #SQL, #GreenIT, #Eco-conception, #Accessibilité, #NumériqueResponsable, #Design </p>
+<p> Mes sujets fétiches : <span> #GreenIT, #Eco-conception, #Accessibilité, #NumériqueResponsable, #Design, #Entrepreneuriat, #IntelligenceCollective </p>
 </div> 
 
-#### Compétences
-<p> Hard skills </p>
+#### Compétences Techniques
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-057682?style=flat&logo=Node.js&logoColor=white)
@@ -41,8 +40,6 @@ WORK IN PROGRESS
 ![API](https://img.shields.io/badge/-API-057682?style=flat&logo=sql&logoColor=white)
 ![GIT](https://img.shields.io/badge/-Git-057682?style=flat&logo=sql&logoColor=white)
 
-
-<p> Soft skills </p>
 
 #### Projets
 ![@Virtu'Art]() | ![@Globe Guide]() |
@@ -62,13 +59,71 @@ WORK IN PROGRESS
   </tr>
   <tr>
     <td align="center">
-      <a href="votre-lien-ici">
+      <a href="votre-lien-ici">https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
         En savoir plus
       </a>
     </td>
   </tr>
 </table>
-#### Formation
 
 ### Evaluations
+<div align='center' >
+<img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
+
+<div align='left'>  
+  <img>
+  <p> superformateurdu13</p>
+  <p>“Point faible : Trop forte.”</p>  
+</div> 
+<br />
+</div>
+
+<div align='center' >
+<img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
+
+<div align='left'>  
+  <img>
+  <p> gentilclientanonyme</p>
+  <p>“Réactivité, pertinence, complétude et sourire digital.” </p>  
+</div> 
+<br />
+</div>
+
+<div align='center' >
+<img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
+
+<div align='left'>  
+  <img>
+  <p> anciennecollègueenor</p>
+  <p> “Fanny would be an asset to any team!”  </p>  
+</div> 
+<br />
+</div>
+
+<div align='center' >
+<img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
+
+<div align='left'>  
+  <img>
+  <p> mamanchériedamour </p>
+  <p> “La perfection absolue.”  </p>  
+</div> 
+<br />
+</div>
+
+
+<div align='center' >
+<img src='https://media.licdn.com/dms/image/C4D03AQH4EdiW5eioMg/profile-displayphoto-shrink_400_400/0/1615143213362?e=2147483647&v=beta&t=CVoSLBNIbw1KcNR0eqDkE_8ofCC3rrWXzQS6Z8qNMNA' align='left' height='70px' >
+
+<div align='left'>  
+  <img>
+  <p> adorablecovoitureurbreton </p>
+  <p> “Une passagère rafraîchissante par temps de canicule.”  </p>  
+</div> 
+<br />
+</div>
+
+
+
+
 
