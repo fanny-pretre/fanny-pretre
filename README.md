@@ -36,8 +36,10 @@ WORK IN PROGRESS
 ![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-SQL-057682?style=flat&logo=sql&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-057682?style=flat&logo=sql&logoColor=white)
+![API](https://img.shields.io/badge/-API-057682?style=flat&logo=sql&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-057682?style=flat&logo=sql&logoColor=white)
 
 
 <p> Soft skills </p>
