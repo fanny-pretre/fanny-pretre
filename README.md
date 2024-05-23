@@ -47,7 +47,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white)
 
 
-## Framework
+## Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-057682?style=flat&logo=Node.js&logoColor=white)
 ![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
@@ -60,7 +60,7 @@
 ![FIGMA](https://img.shields.io/badge/-Figma-057682?style=flat&logo=sql&logoColor=white)
 
 
-## Version Control
+## Versioning
 ![GIT](https://img.shields.io/badge/-Git-057682?style=flat&logo=sql&logoColor=white)
 ![GITHUB](https://img.shields.io/badge/-GitHub-057682?style=flat&logo=sql&logoColor=white)
 
