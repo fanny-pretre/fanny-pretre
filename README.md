@@ -41,17 +41,17 @@
 
 # Compétences Techniques
 
-## Languages
+## Languages & Librairies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
 
 
 ## Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-057682?style=flat&logo=Node.js&logoColor=white)
-![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-057682?style=flat&logo=react&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white)
 
