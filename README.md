@@ -8,7 +8,7 @@
 <br>
 <br>  
 <h3 align='center'> Fanny-Prêtre  </h3> 
-<p> (Ma spécialité c'est les "display : <strong> nonne </strong>" et les blagues de dev visiblement...)</p>
+<p> (Avec mon nom de famille, vous l'aurez deviné ma spécialité c'est les "display : <strong> nonne </strong>" et les blagues de dev visiblement...)</p>
 
 <br />
 </div>
