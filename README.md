@@ -41,7 +41,7 @@
 
 # Compétences Techniques
 
-## Languages & Librairies
+## Langages & Librairies
 
 ![HTML5](https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3)
