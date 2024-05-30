@@ -26,13 +26,13 @@
   <ul>
 <li> <em> Développeuse Full  </em> </li>  
 <li> <em> En recherche d'alternance pour septembre 2024  </em> </li> 
-<li> <em> Basée à La Rochelle mais mobile et ouverte au full Remote  </em> </li>
+<li> <em> Basée à Niort mais mobile et ouverte au full Remote  </em> </li>
 </ul>
 </div><br>
 
 <div>
 <p> Hello et bienvenue sur mon profil GitHub ! <p>
-<p> Je m'appelle Fanny Prêtre et je suis actuellement en reconversion dans le domaine du Développement Web. Je suis actuellement une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a> et je suis à la recherche d'une alternance pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait, si vous souhaitez échanger ou simplement m'envoyer une petite blague de dev n'hésitez pas à me contacter !    </p>
+<p> Je m'appelle Fanny Prêtre et je suis actuellement en reconversion dans le domaine du Développement Web. Je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a> et je suis à la recherche d'une alternance en JS ou Java pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait, si vous souhaitez échanger ou simplement m'envoyer une petite blague de dev n'hésitez pas à me contacter !    </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fpretre-057682?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
 [![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-057682?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
