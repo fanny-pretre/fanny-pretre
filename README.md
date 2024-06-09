@@ -34,8 +34,8 @@
 <p> Hello et bienvenue sur mon profil GitHub ! <p>
 <p> Je m'appelle Fanny Prêtre et je suis actuellement en reconversion dans le domaine du Développement Web. Je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a> et je suis à la recherche d'une alternance en JS ou Java pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait, si vous souhaitez échanger ou simplement m'envoyer une petite blague de dev n'hésitez pas à me contacter !    </p>
 
-[![Linkedin Badge](https://img.shields.io/badge/-fpretre-057682?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
-[![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-057682?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-fpretre-005580?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
+[![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-005580?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
 <p> Mes sujets fétiches : <span> #GreenIT, #Eco-conception, #Accessibilité, #NumériqueResponsable, #Design, #Entrepreneuriat, #IntelligenceCollective </p>
 </div> 
 
@@ -43,27 +43,27 @@
 
 ## Langages & Librairies
 
-![HTML5](https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-005580?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-005580?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-005580?style=flat&logo=javascript&logoColor=white)
+![React](https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white)
 
 
 ## Frameworks
 
-![Nodejs](https://img.shields.io/badge/-Nodejs-057682?style=flat&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-057682?style=flat&logo=react&logoColor=white)
-![Sass](https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white)
+![Nodejs](https://img.shields.io/badge/-Nodejs-005580?style=flat&logo=Node.js&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-005580?style=flat&logo=react&logoColor=white)
+![Sass](https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white)
 
 
 ## Design
 
-![FIGMA](https://img.shields.io/badge/-Figma-057682?style=flat&logo=sql&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-Figma-005580?style=flat&logo=sql&logoColor=white)
 
 
 ## Versioning
-![GIT](https://img.shields.io/badge/-Git-057682?style=flat&logo=sql&logoColor=white)
-![GITHUB](https://img.shields.io/badge/-GitHub-057682?style=flat&logo=sql&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-005580?style=flat&logo=sql&logoColor=white)
+![GITHUB](https://img.shields.io/badge/-GitHub-005580?style=flat&logo=sql&logoColor=white)
 
 
 # Projets
@@ -74,9 +74,9 @@
       <div align="center">
         <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p1.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Virtu'ART, une galerie d'art virtuelle. La capture est un exemple d'oeuvre, en l'occurenc une fresque murale représentant une déesse inca, le nom de l'artiste "Lady Pink" et le titre de l'oeuvre "Fresque à Welling Court"/>
         <h3>Virtu'Art</h3>
-        <img src='https://img.shields.io/badge/-JavaScript-057682?style=flat&logo=javascript&logoColor=white'>
-        <img src='https://img.shields.io/badge/-HTML5-057682?style=flat&logo=html5&logoColor=white'>
-        <img src='https://img.shields.io/badge/-CSS3-057682?style=flat&logo=css3'><br>
+        <img src='https://img.shields.io/badge/-JavaScript-005580?style=flat&logo=javascript&logoColor=white'>
+        <img src='https://img.shields.io/badge/-HTML5-005580?style=flat&logo=html5&logoColor=white'>
+        <img src='https://img.shields.io/badge/-CSS3-005580?style=flat&logo=css3'><br>
          <a href="https://fanny-pretre.github.io/art-galery-2/">
         Prod' de Virtu'Art sur GitHub Pages
       </a>
@@ -86,9 +86,9 @@
       <div align="center">
         <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p2.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Globe Guide, un assistant de voyage. La capture montre le header bleu qui permet de choisir les destinations ainsi que les cartes de deux destinations recommandées à savoir le Mexique et le Vietnam"/>
         <h3>Globe Guide </h3>
-        <img src='https://img.shields.io/badge/-API-057682?style=flat&logo=sql&logoColor=white'>
-        <img src='https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white'>
-        <img src='https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white'><br>
+        <img src='https://img.shields.io/badge/-API-005580?style=flat&logo=sql&logoColor=white'>
+        <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
       <a href="https://globe-guide.netlify.app/">
         Prod' de Globe Guide sur Netlify
       </a>
@@ -98,9 +98,9 @@
       <div align="center">
         <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/projet-perso.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de SkyHook. La capture renvoie à la section joueurs iconiques et on y voit une carte représentant Michaël Jordan."/>
         <h3>Sky Hook </h3>
-        <img src='https://img.shields.io/badge/-API-057682?style=flat&logo=sql&logoColor=white'>
-        <img src='https://img.shields.io/badge/-React-057682?style=flat&logo=react&logoColor=white'>
-        <img src='https://img.shields.io/badge/-Sass-057682?style=flat&logo=sass&logoColor=white'><br>
+        <img src='https://img.shields.io/badge/-API-005580?style=flat&logo=sql&logoColor=white'>
+        <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
       <a href="https://github.com/fanny-pretre/nba-project">
        Repository de Skyhook sur GitHub
       </a>
