@@ -36,6 +36,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-fpretre-005580?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
 [![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-005580?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
+[![Site Badge](https://img.shields.io/badge/-Portfolio-005580?style=flat&logo=Site&logoColor=white&link=https://portfolio-fanny-pretre.netlify.app/)](https://portfolio-fanny-pretre.netlify.app/)
 <p> Mes sujets fétiches : <span> #GreenIT, #Eco-conception, #Accessibilité, #NumériqueResponsable, #Design, #Entrepreneuriat, #IntelligenceCollective </p>
 </div> 
 
