@@ -25,8 +25,8 @@
 <p> <em> Informations vérifiées </em> </p>
   <ul>
 <li> <em> Développeuse Full  </em> </li>  
-<li> <em> En recherche d'alternance pour septembre 2024  </em> </li> 
-<li> <em> Basée à Niort mais mobile et ouverte au full Remote  </em> </li>
+<li> <em> En recherche d'alternance ou de poste de développeuse web junior pour septembre 2024  </em> </li> 
+<li> <em> Basée à Niort / Ouverte au full Remote  </em> </li>
 </ul>
 </div><br>
 
