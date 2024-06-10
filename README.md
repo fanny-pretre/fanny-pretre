@@ -110,7 +110,7 @@
   <tr>
     <td>
       <div align="center">
-        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p1.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Virtu'ART, une galerie d'art virtuelle. La capture est un exemple d'oeuvre, en l'occurenc une fresque murale représentant une déesse inca, le nom de l'artiste "Lady Pink" et le titre de l'oeuvre "Fresque à Welling Court"/>
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/WhacAMole.webp" width="300px;" height="500px;" align="center" alt="Photo représentant l'interface de WhacAMole. On y voit une taupe et une plante carnivore dans le style Mario"/>
         <h3>WhacAMole</h3>
         <img src='https://img.shields.io/badge/-Java-005580?style=flat&logo=java&logoColor=white'>
         <br>
@@ -121,7 +121,7 @@
     </td>
     <td>
       <div align="center">
-        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p2.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Globe Guide, un assistant de voyage. La capture montre le header bleu qui permet de choisir les destinations ainsi que les cartes de deux destinations recommandées à savoir le Mexique et le Vietnam"/>
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/Hide Away.webp" width="300px;" height="500px;" align="center" alt="Photo représentant l'interface de HideAway. On y voit des chèvres ainsi que des boutons pour voir toutes les activités, faire le quizz, se connecter et s'enregistrer."/>
         <h3>Hide Away </h3>
         <img src='https://img.shields.io/badge/-PHP-005580?style=flat&logo=sql&logoColor=white'>
         <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
@@ -133,7 +133,7 @@
     </td>
      <td>
       <div align="center">
-        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/projet-perso.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de SkyHook. La capture renvoie à la section joueurs iconiques et on y voit une carte représentant Michaël Jordan."/>
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/Geocode.webp" width="300px;" height="500px;" align="center" alt="Capture issue de la maquette de Géocode. La capture montre l'accueil et on y voit une voiture électrique et le slogan 'restez branchés avec Geocode'"/>
         <h3>Geocode</h3>
         <img src='https://img.shields.io/badge/-Harmonia-005580?style=flat&logo=sql&logoColor=white'>
         <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
