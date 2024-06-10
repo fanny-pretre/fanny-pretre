@@ -107,6 +107,43 @@
       </div>
     </td>
   </tr>
+  <tr>
+    <td>
+      <div align="center">
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p1.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Virtu'ART, une galerie d'art virtuelle. La capture est un exemple d'oeuvre, en l'occurenc une fresque murale représentant une déesse inca, le nom de l'artiste "Lady Pink" et le titre de l'oeuvre "Fresque à Welling Court"/>
+        <h3>WhacAMole</h3>
+        <img src='https://img.shields.io/badge/-Java-005580?style=flat&logo=java&logoColor=white'>
+        <br>
+         <a href="https://github.com/fanny-pretre/WhacAMole">
+        Repository de WhacAMole sur GitHub
+      </a>
+      </div>
+    </td>
+    <td>
+      <div align="center">
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/p2.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de Globe Guide, un assistant de voyage. La capture montre le header bleu qui permet de choisir les destinations ainsi que les cartes de deux destinations recommandées à savoir le Mexique et le Vietnam"/>
+        <h3>Hide Away </h3>
+        <img src='https://img.shields.io/badge/-PHP-005580?style=flat&logo=sql&logoColor=white'>
+        <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
+      <a href="https://hide-away-seven.vercel.app/">
+        Prod' de Hide Away sur Netlify
+      </a>
+      </div>
+    </td>
+     <td>
+      <div align="center">
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/projet-perso.png" width="300px;" height="500px;" align="center" alt="Capture issue du site de SkyHook. La capture renvoie à la section joueurs iconiques et on y voit une carte représentant Michaël Jordan."/>
+        <h3>Geocode</h3>
+        <img src='https://img.shields.io/badge/-Harmonia-005580?style=flat&logo=sql&logoColor=white'>
+        <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
+      <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CrewDragon-P3-GeoCode">
+       Repository de Geocode sur GitHub
+      </a>
+      </div>
+    </td>
+  </tr>
 </table>
 
 
