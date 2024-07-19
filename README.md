@@ -53,18 +53,20 @@
 ## Frameworks
 
 ![Nodejs](https://img.shields.io/badge/-Nodejs-005580?style=flat&logo=Node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-005580?style=flat&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-005580?style=flat&logo=express&logoColor=white)
 ![Sass](https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white)
 
+## BDD
+![MySQL](https://img.shields.io/badge/-MySQL-005580?style=flat&logo=mySQL&logoColor=white)
 
 ## Design
 
-![FIGMA](https://img.shields.io/badge/-Figma-005580?style=flat&logo=sql&logoColor=white)
+![FIGMA](https://img.shields.io/badge/-Figma-005580?style=flat&logo=figma&logoColor=white)
 
 
 ## Versioning
-![GIT](https://img.shields.io/badge/-Git-005580?style=flat&logo=sql&logoColor=white)
-![GITHUB](https://img.shields.io/badge/-GitHub-005580?style=flat&logo=sql&logoColor=white)
+![GIT](https://img.shields.io/badge/-Git-005580?style=flat&logo=git&logoColor=white)
+![GITHUB](https://img.shields.io/badge/-GitHub-005580?style=flat&logo=github&logoColor=white)
 
 
 # Projets
