@@ -138,11 +138,25 @@
       <div align="center">
         <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/Geocode.webp" width="300px;" height="500px;" align="center" alt="Capture issue de la maquette de Géocode. La capture montre l'accueil et on y voit une voiture électrique et le slogan 'restez branchés avec Geocode'"/>
         <h3>Geocode</h3>
-        <img src='https://img.shields.io/badge/-Harmonia-005580?style=flat&logo=sql&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Express-005580?style=flat&logo=express&logoColor=white'>
         <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
         <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
       <a href="https://github.com/WildCodeSchool-2024-02/JS-RemoteFR-CrewDragon-P3-GeoCode">
        Repository de Geocode sur GitHub
+      </a>
+      </div>
+    </td>
+  </tr>
+    <tr>
+    <td>
+      <div align="center">
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/cp4.png" width="300px;" height="500px;" align="center" alt="Capture issue du site du terrier sur lequel on voit un header et la barre de navigation du site />
+        <h3>Le Terrier</h3>
+       <img src='https://img.shields.io/badge/-Express-005580?style=flat&logo=express&logoColor=white'>
+        <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
+         <a href="https://github.com/fanny-pretre/CP4">
+        Repository du Terrier sur GitHub
       </a>
       </div>
     </td>
