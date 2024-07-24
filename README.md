@@ -150,11 +150,11 @@
     <tr>
     <td>
       <div align="center">
-        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/cp4.png" width="300px;" height="500px;" align="center" alt="Capture issue du site du terrier sur lequel on voit un header et la barre de navigation du site />
+        <img src="https://github.com/fanny-pretre/fanny-pretre/blob/main/cp4.webp" width="300px;" height="500px;" align="center" alt="Capture issue du site du Terrier, on y voit la navbar et un header avec un lapin"/>
         <h3>Le Terrier</h3>
-       <img src='https://img.shields.io/badge/-Express-005580?style=flat&logo=express&logoColor=white'>
         <img src='https://img.shields.io/badge/-React-005580?style=flat&logo=react&logoColor=white'>
-        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'><br>
+        <img src='https://img.shields.io/badge/-Sass-005580?style=flat&logo=sass&logoColor=white'>
+        <img src='https://img.shields.io/badge/-Express-005580?style=flat&logo=express'><br>
          <a href="https://github.com/fanny-pretre/CP4">
         Repository du Terrier sur GitHub
       </a>
