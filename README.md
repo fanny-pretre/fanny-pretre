@@ -32,7 +32,7 @@
 
 <div>
 <p> Hello et bienvenue sur mon profil GitHub ! <p>
-<p> Je m'appelle Fanny Prêtre et je suis actuellement en reconversion dans le domaine du Développement Web. Je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a> et je suis à la recherche d'une alternance en JS ou Java pour septembre 2024 idéalement dans le domaine du numérique responsable. Si mon profil vous plait, si vous souhaitez échanger ou simplement m'envoyer une petite blague de dev n'hésitez pas à me contacter !    </p>
+<p> Je m'appelle Fanny Prêtre et je suis actuellement en reconversion dans le domaine du Développement Web. Je suis une formation en JavaScript auprès de la <a href="https://www.wildcodeschool.com/fr-fr//"> @Wild Code School  </a> et je suis à la recherche d'une alternance ou d'un poste en JS ou Java idéalement dans le domaine du numérique responsable. Si mon profil vous plait, si vous souhaitez échanger ou simplement m'envoyer une petite blague de dev n'hésitez pas à me contacter !    </p>
 
 [![Linkedin Badge](https://img.shields.io/badge/-fpretre-005580?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fanny-prêtre-723630114/)](https://www.linkedin.com/in/fanny-pr%C3%AAtre-723630114/)
 [![Gmail Badge](https://img.shields.io/badge/-fanny.pretre-005580?style=flat&logo=Gmail&logoColor=white&link=mailto:fanny.pretre@gmail.com)](mailto:fanny.pretre@gmail.com)
